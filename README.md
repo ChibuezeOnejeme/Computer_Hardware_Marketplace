@@ -1,2 +1,2 @@
-# Used_Item_Marketplace
-Used Item Marketplace built with Django
+# Computer_Hardware_Marketplace
+Computer hardware Marketplace  built with Django
